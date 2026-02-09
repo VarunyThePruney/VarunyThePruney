@@ -1,21 +1,22 @@
 <h1 align="center">Hi, I'm Varun Golakoti</h1>
 <h3 align="center">I am a student at Mahindra University based in Hyderabad, India</h3>
 
--  I’m currently working on [Web Thrifting app & a research paper web-crawlewr](https://github.com/VarunyThePruney/Distriubuted-Web-Crawler https://github.com/Mhoyt07/WebThrift)
+-  I’m currently working on [Web Thrifting app & a research paper web-crawler](https://github.com/VarunyThePruney/Distriubuted-Web-Crawler https://github.com/Mhoyt07/WebThrift)
 
 -  I’m currently learning **AWS, Flask, & PostgreSQL**
 
 -  My completed projects include :
-  Medical Chatbot:
-      Uses MistralAI to convert an audio clip of a doctor to information that medical transcribers and coders may use.
+-  Medical Chatbot:
+-     Uses MistralAI to convert an audio clip of a doctor to information that medical transcribers and coders may use.
       Implemented using GCP's Speech To Text API V2 to convert mp3 to text
-  Movie Reccomendation engine:|
-      Shell TUI that has real-time data on movies to reccomend to a user based on preference
-  Contigous Memory Allocation Schemes:
-      C program that implements differnt fitting styles to memory allocation to simulate RAM
+-  Movie Reccomendation engine:
+-     Shell TUI that has real-time data on movies to reccomend to a user based on preference
+- Contigous Memory Allocation Schemes:
+-     C program that implements differnt fitting styles to memory allocation to simulate RAM
   
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -  How to reach me **varungolakoti@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
