@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varun Golakoti</h1>
+<h3 align="center">I am a student at Mahindra University based in Hyderabad, India</h3>
+
 - 🔭 I’m currently working on [Web Thrifting app & a research paper web-crawlewr](https://github.com/VarunyThePruney/Distriubuted-Web-Crawler https://github.com/Mhoyt07/WebThrift)
 
 - 🌱 I’m currently learning **AWS, Flask, & PostgreSQL**
